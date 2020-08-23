@@ -1,0 +1,22 @@
+[
+  {
+    "label": "order",
+    "key": "order",
+    "path": "/order"
+  },
+  {
+    "label": "contact",
+    "key": "contact",
+    "path": "/contact"
+  },
+  {
+    "label": "placeholder",
+    "key": "placeholder",
+    "path": "/placeholder"
+  },
+  {
+    "label": "placeholder 2",
+    "key": "placeholder-2",
+    "path": "/placeholder-2"
+  }
+]
