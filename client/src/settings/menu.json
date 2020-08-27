@@ -1,0 +1,115 @@
+[
+	{
+		"type": "Rolls",
+		"image": "philadelphia-roll.jpg",
+		"key": "roll",
+		"menu": [
+			{
+				"name": "California Roll",
+				"price": "4.25",
+				"pieces": "8"
+			},
+			{
+				"name": "Dynamite Roll",
+				"price": "5.25",
+				"pieces": "5"
+			},
+			{
+				"name": "BC Roll",
+				"price": "5.25",
+				"pieces": "5"
+			},
+			{
+				"name": "Chopped Scallop",
+				"price": "4.95",
+				"pieces": "8"
+			}
+		]
+	},
+	{
+		"type": "Nigiri",
+		"image": "tuna+nigiri.jpg",
+		"key": "nigiri",
+		"menu": [
+			{
+				"name": "Salmon",
+				"price": "1.99",
+				"pieces": "1"
+			},
+			{
+				"name": "Tuna",
+				"price": "1.99",
+				"pieces": "1"
+			},
+			{
+				"name": "Tako (Octopus)",
+				"price": "1.99",
+				"pieces": "1"
+			},
+			{
+				"name": "Unagi",
+				"price": "2.50",
+				"pieces": "1"
+			},
+			{
+				"name": "Chopped Scallop",
+				"price": "1.99",
+				"pieces": "1"
+			}
+		]
+	},
+	{
+		"type": "Sashimi",
+		"image": "sashimi.jpg",
+		"key": "sashimi",
+		"menu": [
+			{
+				"name": "Salmon",
+				"price": "8.95",
+				"pieces": "5"
+			},
+			{
+				"name": "Tuna",
+				"price": "8.95",
+				"pieces": "5"
+			},
+			{
+				"name": "Tako (Octopus)",
+				"price": "13.25",
+				"pieces": "7"
+			},
+			{
+				"name": "Assorted",
+				"price": "14.95",
+				"pieces": "10"
+			}
+		]
+	},
+	{
+		"type": "Specialty Rolls",
+		"image": "special-dynamite-roll.jpg",
+		"key": "specialty",
+		"menu": [
+			{
+				"name": "Volcano Roll",
+				"price": "14.95",
+				"pieces": "8"
+			},
+			{
+				"name": "Panorama Roll",
+				"price": "14.95",
+				"pieces": "8"
+			},
+			{
+				"name": "Patagonia Roll",
+				"price": "13.95",
+				"pieces": "8"
+			},
+			{
+				"name": "Garibaldi Roll",
+				"price": "13.95",
+				"pieces": "8"
+			}
+		]
+	}
+]

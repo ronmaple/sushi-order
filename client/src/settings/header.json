@@ -1,22 +1,27 @@
 [
-  {
-    "label": "order",
-    "key": "order",
-    "path": "/order"
-  },
-  {
-    "label": "contact",
-    "key": "contact",
-    "path": "/contact"
-  },
-  {
-    "label": "placeholder",
-    "key": "placeholder",
-    "path": "/placeholder"
-  },
-  {
-    "label": "placeholder 2",
-    "key": "placeholder-2",
-    "path": "/placeholder-2"
-  }
+	{
+		"label": "Home",
+		"key": "home",
+		"path": "/"
+	},
+	{
+		"label": "Contact",
+		"key": "contact",
+		"path": "/contact"
+	},
+	{
+		"label": "Order",
+		"key": "order",
+		"path": "/order"
+	},
+	{
+		"label": "Signin | Register",
+		"key": "signin",
+		"path": "/register"
+	},
+	{
+		"label": "Cart",
+		"key": "cart",
+		"path": "/order"
+	}
 ]
